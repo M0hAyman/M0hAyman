@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
 <h3 align="center">Computer Engineering student at Ain Shams University.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hayman&label=Profile%20views&color=0e75b6&style=flat" alt="m0hayman" /> </p>
 
 - 🌱 I’m currently learning **Cybersecurity**
